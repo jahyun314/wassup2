@@ -1,2 +1,2 @@
 # wassup2
-ESTsoft wassup2 boot camp
+ESTsoft wassup boot camp2
