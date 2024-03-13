@@ -6,8 +6,6 @@ __pycache__/
 #dataset
 dataset/
 
-#python_data/sample
-
 # C extensions
 *.so
 
